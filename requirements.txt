@@ -1,0 +1,5 @@
+flask
+flask-smorest
+gunicorn
+pytesseract
+python-dotenv
